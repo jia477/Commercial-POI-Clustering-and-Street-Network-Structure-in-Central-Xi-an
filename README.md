@@ -1,6 +1,6 @@
 # Commercial POI Clustering and Street Network Structure in Central Xi'an
 
-This repository contains the final files for my URBAN5160 Advanced Topics for Urban Analytics project.
+This repository contains the final files for my URBAN5160 Advanced Topics.
 
 ## Project overview
 
