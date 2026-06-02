@@ -10,7 +10,7 @@ The project explores whether commercial POI density is associated with distance 
 
 ## Main files
 
-* `xian_poi_project.ipynb` — final Jupyter Notebook
+* `xianproject.ipynb` — final Jupyter Notebook
 * `Commercial POI Clustering and Street Network Structure in Central Xi'an` — HTML version of the final report
 * `data/` — input and processed datasets
 * `outputs/` — figures and model result tables
