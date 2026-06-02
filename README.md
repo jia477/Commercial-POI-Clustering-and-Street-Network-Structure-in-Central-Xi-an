@@ -37,9 +37,3 @@ The dependent variable is commercial POI density. The main predictors are distan
 Commercial POIs are unevenly clustered in central Xi'an. Distance from the Bell Tower is negatively associated with POI density, but distance alone does not explain the full pattern.
 
 Among the tested street-network variables, mean intersection degree gives the strongest simple OLS model. However, residual Moran's I shows that spatial autocorrelation remains, so the OLS result should be treated as exploratory.
-
-## Author
-
-Xun Jia
-URBAN5160 Advanced Topics for Urban Analytics
-University of Glasgow
