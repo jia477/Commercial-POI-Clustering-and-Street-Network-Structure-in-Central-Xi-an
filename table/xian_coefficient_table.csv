@@ -1,0 +1,12 @@
+﻿model,variable,coef,p_value
+Baseline: distance only,distance_to_bell_km,-148.75986074661802,1.029043622060866e-09
+Road density,distance_to_bell_km,-133.65101530681903,6.56866382664008e-08
+Road density,road_density_km_per_km2,10.653346089582573,0.0105514507316287
+Intersection density,distance_to_bell_km,-139.68464457567282,2.0098020164965366e-08
+Intersection density,intersection_density_n_per_km2,1.426378397528518,0.11252792794560067
+Mean intersection degree,distance_to_bell_km,-146.44916862852756,1.018210073604724e-09
+Mean intersection degree,mean_intersection_degree,121.57455190026221,0.0007905840214100142
+Combined model,distance_to_bell_km,-139.85310384789972,1.5787354181534842e-08
+Combined model,road_density_km_per_km2,10.17326994699339,0.20126995216832902
+Combined model,intersection_density_n_per_km2,-1.1567908798695268,0.4733213540555551
+Combined model,mean_intersection_degree,96.74410432079789,0.017163893517078466
